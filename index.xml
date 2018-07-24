@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YouJin</title>
+    <link>http://youjinlee.org/</link>
+    <description>Recent content on YouJin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://youjinlee.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://youjinlee.org/posts/my-first-post/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youjinlee.org/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Am I</title>
+      <link>http://youjinlee.org/about/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://youjinlee.org/about/</guid>
+      <description>My name is You Jin Lee this is a sample page this is how to use multiple headings 
+ Cat Fluffy animal everyone likes  
+ Internet Vector of transmission for pictures of cats
+ [ ] a task list item
+ [ ] list syntax required
+ [ ] incomplete
+ [x] completed
+  
+I was a student&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
